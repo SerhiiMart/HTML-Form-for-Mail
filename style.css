@@ -52,14 +52,15 @@ button[type="submit"] {
   font-size: 24px;
   border-radius: 8px;
   font-family: "Montserrat";
-  color: rgb(53, 176, 247);
+  color: rgb(161, 1, 148);
+  background-color: rgb(137, 228, 125);
   text-align: center;
   cursor: pointer;
   margin-top: 10px;
   transition: 0.3s ease background-color;
 }
 button[type="submit"]:hover {
-  background-color: rgb(166, 170, 173);
+  background-color: rgb(51, 138, 204);
 }
 #status {
   width: 90%;
